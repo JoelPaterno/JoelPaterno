@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, My name is Joel Paterno
 
-<!--
-**JoelPaterno/JoelPaterno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build beautiful, scalable, secure, web applications from the ground up.
 
-Here are some ideas to get you started:
+## 💫 Liitle Bit More About Me
+<p>🔭 I'm currently working on Chess JS</p>
+<p>🌱 I'm currently learning HTML5, CSS3 and JavaScript</p>
+<p>I regularly write articles on <a href="https://joelpaterno.tech">joelpaterno.tech</a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="margin-bottom: 4px;" height="30px">
+</p>
+
+## 👥 Connect With Me
+<p>
+<a href="https://linkedin.com/in/joelpaterno"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
+
+## 🌟 Github Badges
+<p>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=">
+</p>
+
+## 📊 Github Status
