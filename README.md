@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Joel Paterno
 
-I build beautiful, scalable, secure, web applications from the ground up.
+I'm a Full Stack Developer from Melbourne, Australia. I build beautiful, scalable, secure, web applications from the ground up.
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Chess JS</p>
@@ -20,14 +20,3 @@ I build beautiful, scalable, secure, web applications from the ground up.
 <p>
 <a href="https://linkedin.com/in/joelpaterno"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
-
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=">
-</p>
-
-## 📊 Github Status
