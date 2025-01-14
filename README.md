@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer from Melbourne, Australia. I build beautiful, scalable, secure, web applications from the ground up.
 
-## 💫 Liitle Bit More About Me
+## 💫 Little Bit More About Me
 <p>🔭 I'm currently working on Chess JS</p>
 <p>🌱 I'm currently learning HTML5, CSS3 and JavaScript</p>
 <p>I regularly write articles on <a href="https://joelpaterno.tech">joelpaterno.tech</a></p>
